@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7c91dd83-0053-487c-b607-4f31b968d13f/resourceGroups/rgdicisoft/providers/Microsoft.Web/sites/elchupe",
+    "appService.deploySubpath": ""
+}
